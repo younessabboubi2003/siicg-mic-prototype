@@ -1144,7 +1144,15 @@ with tab_arbitrage:
 # ============================================================
 st.markdown("""
 <div class="footer">
-  Prototype académique SIICG — Architecture décisionnelle de pilotage de la performance publique · EMI · Forvis Mazars × Ministère de l'Industrie et du Commerce · 2026<br>
-  Démonstrateur — passage du reporting statique au pilotage dynamique, alerté et actionnable
+  SIICG — Executive Governance Cockpit  
+Architecture décisionnelle de pilotage de la performance publique intégrant monitoring KPI, alertes stratégiques, arbitrages et assistance DOCG.
+
+Developed by Youness ABBOUBI  
+Industrial Engineering Student — École Mohammadia d’Ingénieurs (EMI)  
+Strategy & Public Sector Consulting — Forvis Mazars Morocco
+
+📧 abboubiyouness78@gmail.com  
+🔗 linkedin.com/in/younessabboubi  
+🌐 mic-performance-dashboard.streamlit.app
 </div>
 """, unsafe_allow_html=True)
