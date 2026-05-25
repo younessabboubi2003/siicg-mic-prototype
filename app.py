@@ -11,7 +11,7 @@ import streamlit as st
 # ============================================================
 st.set_page_config(
     page_title="SIICG — MIC | Executive Performance Cockpit",
-    page_icon="assets/logo_mic.png",
+    page_icon="logo-mic.png",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -32,7 +32,7 @@ GRAY = "#6B7280"
 LGRAY = "#E5E7EB"
 SOFT_BLUE = "#EAF3F8"
 
-MIC_LOGO = "assets/logo_mic.png"
+MIC_LOGO = "logo-mic.png"
 DEFAULT_FILE = "kpi_mic_sample.csv"
 
 # ============================================================
