@@ -342,8 +342,8 @@ st.markdown(f"""
 
 st.markdown("""
 <div class="method-box">
-<b>Positionnement du démonstrateur.</b> Ce prototype académique illustre la faisabilité d’un SIICG capable de transformer un référentiel KPI en
-un dispositif décisionnel : calcul automatique des écarts, qualification des alertes, analyse DOCG, génération de rapport mensuel et support aux Revues de Performance Mensuelles.
+<b>Strategic Performance Steering Cockpit.</b>
+Le prototype SIICG illustre la transition d’un reporting fragmenté vers une plateforme intégrée de pilotage stratégique capable de transformer les données de performance en mécanismes d’alerte, d’analyse, d’arbitrage et d’aide à la décision pour les instances de gouvernance du Ministère.
 </div>
 """, unsafe_allow_html=True)
 
