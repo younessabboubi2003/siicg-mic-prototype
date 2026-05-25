@@ -60,6 +60,13 @@ html, body, [class*="css"] {{
 .main {{
     background-color: {LIGHT};
 }}
+header[data-testid="stHeader"] {{
+    display: none !important;
+}}
+
+div[data-testid="stToolbar"] {{
+    display: none !important;
+}}
 
 .block-container {{
     padding: 0 2.6rem 2.5rem 2.6rem;
