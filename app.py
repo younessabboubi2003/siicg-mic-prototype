@@ -2022,6 +2022,11 @@ st.markdown("""
 <div class="footer">
   SIICG — Démonstrateur fonctionnel de pilotage de la performance publique<br>
   Version de cadrage · Usage interne · Données démonstratives · 2026<br>
-  Centralisation KPI · Alertes stratégiques · Arbitrages · RPM · Référentiel documentaire
+  Centralisation KPI · Alertes stratégiques · Arbitrages · RPM · Référentiel documentaire<br><br>
+
+  <b>Développé par Youness ABBOUBI</b><br>
+  Élève ingénieur en Génie Industriel — École Mohammadia d’Ingénieurs<br>
+  📧 abboubiyouness78@gmail.com<br>
+  🔗 linkedin.com/in/younessabboubi
 </div>
 """, unsafe_allow_html=True)
