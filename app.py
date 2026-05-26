@@ -52,9 +52,17 @@ MIC_LOGO_SRC = get_image_base64(MIC_LOGO)
 # CSS — PREMIUM CONSULTING STYLE
 # ============================================================
 st.markdown(f"""
+
 <style>
 html, body, [class*="css"] {{
     font-family: 'Segoe UI', Arial, sans-serif;
+}}
+section[data-testid="stSidebar"] > div:first-child {{
+    padding-top: 1rem !important;
+}}
+
+section[data-testid="stSidebar"] .block-container {{
+    padding-top: 0.5rem !important;
 }}
 
 .main {{
@@ -316,9 +324,9 @@ section[data-testid="stSidebar"] .stTextInput label {{
     font-size: 13px !important;
 }}
 
-.sidebar-logo-wrap {{
+.sidebar-logo-wrap {
     text-align: center;
-    padding: 14px 0 8px 0;
+    padding: 4px 0 8px 0;
     border-bottom: 1px solid rgba(200,169,107,0.35);
     margin-bottom: 16px;
 }}
