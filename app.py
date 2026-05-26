@@ -64,7 +64,6 @@ section[data-testid="stSidebar"] > div:first-child {{
 section[data-testid="stSidebar"] .block-container {{
     padding-top: 0.5rem !important;
 }}
-
 .main {{
     background-color: {LIGHT};
 }}
