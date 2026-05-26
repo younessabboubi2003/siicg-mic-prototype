@@ -323,7 +323,7 @@ section[data-testid="stSidebar"] .stTextInput label {{
     font-size: 13px !important;
 }}
 
-.sidebar-logo-wrap {
+.sidebar-logo-wrap {{
     text-align: center;
     padding: 4px 0 8px 0;
     border-bottom: 1px solid rgba(200,169,107,0.35);
